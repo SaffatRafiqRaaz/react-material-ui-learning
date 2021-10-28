@@ -29,7 +29,7 @@ const Header = () => {
           </IconButton>
         </SideDrawer>
         <Typography variant="h6" className={classes.title}>
-          Blogging Website
+          Saffat's Blogging Website
         </Typography>
         <IconButton color="inherit">
           <Badge
