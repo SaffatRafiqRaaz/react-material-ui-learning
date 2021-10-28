@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-material-ui-learning/static/css/main.29e4cd29.chunk.css",
+    "main.js": "/react-material-ui-learning/static/js/main.eea7acfb.chunk.js",
+    "main.js.map": "/react-material-ui-learning/static/js/main.eea7acfb.chunk.js.map",
+    "runtime-main.js": "/react-material-ui-learning/static/js/runtime-main.ae1cfa31.js",
+    "runtime-main.js.map": "/react-material-ui-learning/static/js/runtime-main.ae1cfa31.js.map",
+    "static/js/2.1763824e.chunk.js": "/react-material-ui-learning/static/js/2.1763824e.chunk.js",
+    "static/js/2.1763824e.chunk.js.map": "/react-material-ui-learning/static/js/2.1763824e.chunk.js.map",
+    "static/js/3.ab98dc05.chunk.js": "/react-material-ui-learning/static/js/3.ab98dc05.chunk.js",
+    "static/js/3.ab98dc05.chunk.js.map": "/react-material-ui-learning/static/js/3.ab98dc05.chunk.js.map",
+    "index.html": "/react-material-ui-learning/index.html",
+    "static/css/main.29e4cd29.chunk.css.map": "/react-material-ui-learning/static/css/main.29e4cd29.chunk.css.map",
+    "static/js/2.1763824e.chunk.js.LICENSE.txt": "/react-material-ui-learning/static/js/2.1763824e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae1cfa31.js",
+    "static/js/2.1763824e.chunk.js",
+    "static/css/main.29e4cd29.chunk.css",
+    "static/js/main.eea7acfb.chunk.js"
+  ]
+}
